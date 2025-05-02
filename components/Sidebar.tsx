@@ -6,10 +6,8 @@ export default function Sidebar() {
   // Define the list of topics directly
   const toc = [
     'Introduction',
-    'Getting Started',
-    'Advanced Topics',
-    'API Reference',
-    'Troubleshooting',
+    'Get Started',
+    'Pricing',
   ];
 
   return (
